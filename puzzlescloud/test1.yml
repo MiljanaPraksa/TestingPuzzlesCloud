@@ -1,16 +1,10 @@
 chapters:
-- chapters:
-  - chapters: []
-    folderName: ''
-    name: It was very easy
-    path: ''
-    sourceURL: ''
-    type: MANUAL_CHAPTER
-  folderName: ''
-  name: This is my first attempt at testing this app
-  path: ''
-  sourceURL: ''
-  type: MANUAL_CHAPTER
+- chapters: []
+  folderName: main
+  name: TestingPuzzlesCloud
+  path: README.md
+  sourceURL: https://github.com/MiljanaPraksa/TestingPuzzlesCloud.git
+  type: MARKDOWN_CHAPTER
 fieldValues:
   doc-release-date: ''
   doc-type: ''

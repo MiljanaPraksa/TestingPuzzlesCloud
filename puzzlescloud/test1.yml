@@ -1,0 +1,24 @@
+chapters:
+- chapters:
+  - chapters: []
+    folderName: ''
+    name: It was very easy
+    path: ''
+    sourceURL: ''
+    type: MANUAL_CHAPTER
+  folderName: ''
+  name: This is my first attempt at testing this app
+  path: ''
+  sourceURL: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-type: ''
+  doc-title: ''
+  File Name: test1.docx
+  doc-version: ''
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
